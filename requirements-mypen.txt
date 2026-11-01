@@ -1,0 +1,6 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+# Optional: PDF report export (--pdf)
+reportlab>=4.0.0
+# Optional: DNS TXT/MX checks in the advanced module
+dnspython>=2.6.0
